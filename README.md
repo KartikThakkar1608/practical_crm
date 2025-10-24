@@ -48,7 +48,7 @@ A Laravel-based CRM system with dynamic field management, contact relationships,
 ### Prerequisites
 - PHP 8.1+
 - Composer
-- MySQL/MariaDB
+- MySQL
 - XAMPP/WAMP (recommended)
 
 ### Installation Steps
